@@ -8,7 +8,8 @@ public class ProjecteGIT {
         
         System.out.println("Disme un numero");    
         int a = entrada.nextInt();
-
+        System.out.println("Disme un altre numero"); 
+        int b = entrada.nextInt();
     }
 
 }
