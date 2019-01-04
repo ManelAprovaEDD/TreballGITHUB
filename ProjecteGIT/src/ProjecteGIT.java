@@ -16,7 +16,7 @@ public class ProjecteGIT {
         }
         
         System.out.println("El numero " + a + " mas el numero " + b + " es igual a " + (a+b));
-        	
+        System.out.println("Hola qué tal estáis");
     }
 
 }
