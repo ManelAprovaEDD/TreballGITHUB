@@ -12,7 +12,11 @@ public class ProjecteGIT {
         int b = entrada.nextInt();
         
         if(a>b){
-        	System.out.println("El numero" + a + "es major que el numero" + b);
+        	System.out.println("El numero " + a + " es major que el numero " + b);
+        }
+        
+        if(b>a){
+        	System.out.println("El numero " + b + " es major que el numero " + a);
         }
     }
 
